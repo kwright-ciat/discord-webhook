@@ -15,11 +15,13 @@
 * Click the Copy Webhook URL
 
 ## Github Website
+![Github Repository Settings](/images/github-webhook-1.PNG)
 * Select Repository you own
 * Click Settings 
 * Click Webhooks
 * Click Add Webhook
-* Paste the URL in the Payload URL
+* Paste the URL in the Payload URL 
+* Add "/github" to the end of URL
 * Select Content-Type application/json
 * Disable SSL verification
 * Click Add Webhook
