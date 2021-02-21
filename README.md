@@ -1,5 +1,6 @@
 # discord-webhook
 
+## Discord Desktop
 * In Discord, select server and a channel.
 * For example, choose WrightRocket and #Announcements
 * Click the Edit Channel icon next to the channel
@@ -11,4 +12,12 @@
 * Unless you like the generated name like "Captain Hook"
 * Click the Copy Webhook URL
 
-
+## Github Website
+* Select Repository you own
+* Click Settings 
+* Click Webhooks
+* Click Add Webhook
+* Paste the URL in the Payload URL
+* Select Content-Type application/json
+* Disable SSL verification
+* Click Add Webhook
