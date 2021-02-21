@@ -8,7 +8,7 @@
 * Click the Edit Channel icon next to the channel
 * (The icon looks like a gear wheel or sprocket)
 
-![Discord Channel Settings](/images/discord-webhook-1.PNG)
+![Discord Channel Settings](/images/discord-webhook-2.PNG)
 * Click the Integrations on the left sidebar
 * Click on the Webhooks or Create Webhook button
 * Click the New Webhook button
