@@ -3,7 +3,8 @@
 ## Discord Desktop
 ![Discord Channel Settings](/images/discord-webhook-1.PNG)
 * In Discord, select server and a channel.
-* For example, choose WrightRocket and #Announcements
+* For example, choose WrightRocket and #webhooks
+* (Note: #webhooks channel was added to the server)
 * Click the Edit Channel icon next to the channel
 * The icon looks like a gear wheel or sprocket
 * Click the Integrations on the left sidebar
