@@ -1,6 +1,7 @@
 # discord-webhook
 
 ## Discord Desktop
+![Discord Channel Settings](/images/discord-webhook-1.PNG)
 * In Discord, select server and a channel.
 * For example, choose WrightRocket and #Announcements
 * Click the Edit Channel icon next to the channel
