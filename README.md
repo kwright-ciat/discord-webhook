@@ -28,3 +28,4 @@
 * Disable SSL verification
 * Select which events to receive
 * Click Add Webhook
+* Make a change and commit it to your repository
